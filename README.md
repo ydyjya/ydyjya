@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zhenhong Zhou</h1>
 <h3 align="center">
-  second-year master student at Beijing University of Posts and Telecommunications, advised by 
+  I'm a second-year master student at Beijing University of Posts and Telecommunications, advised by 
   <a href="https://scholar.google.com/citations?user=JaDhAfsAAAAJ">Sen Su</a>
 </h3>
 
