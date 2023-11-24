@@ -6,9 +6,11 @@
 
 - 🔭 I’m currently interested in **LLM Safety, jailbreak and privacy specifically**.
 
+- 👨‍💻 I'm currently interning at Baichuan Inc. as a LLM Content Security Algorithm Engineer.
+
 - 🤝 I’m looking for **PhD programs**, also in need of a research assistant position.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ydyjya](https://github.com/ydyjya)
+- 💻 All of my projects are available at [https://github.com/ydyjya](https://github.com/ydyjya)
 
 - 📝 I regularly write articles on [https://www.zhihu.com/people/warrior-18-53](https://www.zhihu.com/people/warrior-18-53)
 
