@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for **PhD programs**, also in need of a research assistant position.
 
-- 💻 All of my projects are available at [Github](https://github.com/ydyjya)
+- 💻 All of my projects are available at [GitHub](https://github.com/ydyjya)
 
 - 📝 I regularly write articles on [Zhihu](https://www.zhihu.com/people/warrior-18-53)
 
