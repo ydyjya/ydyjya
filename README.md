@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently interested in **LLM Safety, jailbreak and privacy specifically**.
 
-- 👨‍💻 I'm currently interning at Baichuan Inc. as a LLM Content Security Algorithm Engineer.
+- 👨‍💻 I'm currently interning at Damo Academy, as a Research Intern.
 
-- 🤝 I’m looking for **PhD programs**, also in need of a research assistant position.
+- 🤝 I’m looking for **PhD programs**.
 
 - 💻 All of my projects are available at [GitHub](https://github.com/ydyjya)
 
