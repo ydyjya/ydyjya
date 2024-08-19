@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zhenhong Zhou</h1>
 <h3 align="center">
-  I'm a second-year master student at Beijing University of Posts and Telecommunications, advised by 
+  I'm a final-year master student at Beijing University of Posts and Telecommunications, advised by 
   <a href="https://scholar.google.com/citations?user=JaDhAfsAAAAJ">Sen Su</a>
 </h3>
 
-- 🔭 I’m currently interested in **LLM Safety, jailbreak and privacy specifically**.
+- 🔭 I’m currently interested in **LLM Safety, jailbreak & defense and interpretability specifically**.
 
-- 👨‍💻 I'm currently interning at Damo Academy, as a Research Intern.
+- 👨‍💻 I'm currently interning at Tongyi, as a Research Intern.
 
 - 🤝 I’m looking for **PhD programs**.
 
