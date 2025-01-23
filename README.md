@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently interested in **LLM Safety, jailbreak & defense and interpretability specifically**.
 
-- 👨‍💻 I'm currently interning at Tongyi, as a Research Intern.
+- 👨‍💻 I'm currently interning at A*Star, as a Research Intern.
 
 - 🤝 I’m looking for **PhD programs**.
 
@@ -21,6 +21,8 @@
 </p>
 
 ### News
+
+📰 One Paper has been accepted by ICLR2025, see you in Singapore.
 
 📰 Two papers has been accepted by EMNLP2024!
 
